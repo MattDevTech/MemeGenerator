@@ -1,0 +1,18 @@
+5/12/2020
+1:45pm - 2:30pm(.75)
+7:45pm - 8:00pm(.25)
+
+5/13/2020
+9:15am - 10:45am(1.5)
+
+5/14/2020
+9:00am - 10:30am(1.5)
+3:30pm - 4:45pm(1.25)
+10:15pm - 11:00pm(.75)
+
+5/18/2020
+4:45pm - 5:30pm(.75)
+
+Total time: 6.75 hours
+
+The hardest part of this was definitely the CSS I spent hours stuck trying to get the text divs to properly line up on the image div. CSS is my weakest point and so I struggled with positioning relative/absolute. Ultimately I was listening to a CSS video while walking my dog and the speaker mentioned that in order for position: absolute to work correctly you have to give the parent element a relative position. Otherwise the child element will position itself absolutely based on the first parent element it can find that has a position: relative(even if it has to go up to the HTML tag). Once I had that down the rest went pretty smoothly but I was very burnt out on this assessment. At nearly 7 hours I'm submitting it and hoping to move on. It certainly could look better and it has shown me that I have to work on my CSS as it is clearly a huge weak spot for me.  
